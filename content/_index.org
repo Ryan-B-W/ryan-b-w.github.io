@@ -1,0 +1,13 @@
+#+title: Ryan's Homepage
+#+date: 2023-12-13T050221Z
+#+description: Ryan Wilcox's homepage on the 'net.  Just some software dev' nerding around with some of the less mainstream tech stuff.
+
+* Welcome Ryan's Site!
+
+#+ATTR_HTML: :width 100px
+#+ATTR_HTML: :style float:left; margin:10px
+#+ATTR_HTML: :alt Profile photo of Ryan sitting in front of the Cliffs of Moher and smiling at the camera
+#+ATTR_HTML: :title Ryan's profile photo, taken sitting in front of the Cliffs of Moher
+[[file:profile-photo.jpg]]
+
+Hello!  This is Ryan's personal site.  Ryan does software development—mostly full-stack web and native—and DevOps.  Ryan dabbles in electronics, machining, 3D printing, streaming, video production, and—sometimes—writing.  Ryan also occasionally contributes to some open source projects.  Hobbies include, but are not limited to, playing with esoteric or retro technology; reading science fiction, fantasy, and speculative fiction; hosting and attending meetups; mentoring people in software development; making high-effort shitposts; and playing coop video games with friends.

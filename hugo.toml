@@ -1,0 +1,47 @@
+baseURL = 'https://ryanbw.com/'
+languageCode = 'en-us'
+title = 'Ryan "Brody" Wilcox, software developer'
+copyright = 'Ryan "Brody" Wilcox'
+theme = 'boxen-theme'
+sectionPagesMenu = 'main'
+[params]
+subtitle = 'Just a person doing stuff and things'
+author = 'Ryan "Brody" Wilcox'
+images = ['profile-photo.jpg']
+[menu]
+[[menu.main]]
+name = 'Home'
+pageRef = '/'
+weight = 1
+[[menu.other_sites]]
+name = 'Vimacs.app'
+url = 'https://vimacs.app'
+weight = 1
+[[menu.other_sites]]
+name = 'httpsters.me'
+url = 'https://httpsters.me'
+weight = 2
+[[menu.social]]
+name = 'Mastodon@SDF'
+url = 'https://mastodon.sdf.org/@ryanbw'
+weight = 1
+[[menu.social]]
+name = 'GitHub'
+url = 'https://github.com/Ryan-B-W'
+weight = 2
+[[menu.social]]
+name = 'YouTube'
+url = 'https://www.youtube.com/@RyanBrodyWilcox'
+weight = 3
+[[menu.social]]
+name = 'LinkedIn'
+url = 'https://www.linkedin.com/in/ryan-wilcox-001738b5'
+weight = 4
+[[menu.social]]
+name = 'Twitter'
+url = 'https://twitter.com/ryanbrodrick'
+weight = 5
+[[menu.social]]
+name = 'Facebook'
+url = 'https://www.facebook.com/brody.wilcox1'
+weight = 50
